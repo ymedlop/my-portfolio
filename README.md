@@ -1,0 +1,1 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a27455b2-b41a-40b5-aca1-0dafd7ebb9c5/deploy-status)](https://app.netlify.com/sites/eager-saha-f609ce/deploys)
