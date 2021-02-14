@@ -24,7 +24,7 @@ date_format: 01-2006
 experience:
   - title: Consultor Técnico
     company: Santander Consumer Technology Services GmbH 
-    company_url: 'https://www.linkedin.com/company/santandertechnology/mycompany/'
+    company_url: 'https://www.santander.de/'
     location: Mönchengladbach
     date_start: '2019-01-01'
     date_end: ''
@@ -33,7 +33,7 @@ experience:
 
   - title: Consultor Técnico
     company: Avansis
-    company_url: 'https://www.linkedin.com/company/avansis'
+    company_url: 'https://www.avansis.es/en/'
     location: Madrid - Mönchengladbach
     date_start: '2017-09-04'
     date_end: '2018-12-31'
@@ -42,7 +42,7 @@ experience:
 
   - title: Arquitecto Técnico
     company: BEEVA
-    company_url: 'https://www.linkedin.com/company/beeva'
+    company_url: 'https://www.bbvanexttechnologies.com/'
     location: Madrid
     date_start: '2016-04-27'
     date_end: '2017-09-01'
@@ -51,7 +51,7 @@ experience:
 
   - title: Arquitecto
     company: Intelygenz
-    company_url: 'https://www.linkedin.com/company/intelygenz/'
+    company_url: 'https://intelygenz.com/'
     location: Madrid
     date_start: '2013-10-01'
     date_end: '2016-04-26'
@@ -61,7 +61,7 @@ experience:
 
   - title: Analista Desarrollador 
     company: Intelygenz
-    company_url: 'https://www.linkedin.com/company/intelygenz/'
+    company_url: 'https://intelygenz.com/'
     location: Madrid
     date_start: '2012-10-18'
     date_end: '2013-10-01'
@@ -70,7 +70,7 @@ experience:
 
   - title: Analista Desarrollador .NET
     company: Euroconsult Group
-    company_url: 'https://www.linkedin.com/company/euroconsult-group'
+    company_url: 'http://www.euroconsult.es/en/'
     location: Madrid
     date_start: '2012-06-01'
     date_end: '2012-10-16'
@@ -79,7 +79,7 @@ experience:
 
   - title: Analista Desarrollador .NET
     company: Fujitsu Technology Solutions
-    company_url: 'https://www.linkedin.com/company/fujitsu'
+    company_url: 'https://www.fujitsu.com/es/'
     location: Santa Cruz de Tenerife
     date_start: '2006-06-01'
     date_end: '2012-05-01'
