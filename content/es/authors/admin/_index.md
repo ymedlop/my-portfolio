@@ -6,7 +6,7 @@ title: Yeray Medina López
 superuser: true
 
 # Role/position/tagline
-role: Technical Consultant
+role: Consultor Técnico
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,18 +14,19 @@ organizations:
   url: https://www.linkedin.com/company/santandertechnology/mycompany/
 
 # Short bio (displayed in user profile at end of posts)
-bio: TODO
+bio: Jack of all trades, maestro de nada, es un entusiasta de aprender nuevas y diferentes tecnologías, ampliando sus áreas de conocimiento.
 
 # Interests to show in About widget
 interests:
 - Cloud Computing
 - DevOps
+- Node-RED
 - Node.js
 
 # Education to show in About widget
 education:
   courses:
-  - course: Técnico Superior en Desarrollo de Aplicaciones Informáticas
+  - course: Técnico Superior en Desarrollo Aplicaciones Informáticas
     institution: IES Cesár Manrique
     year: 2002 - 2006
 
@@ -53,9 +54,9 @@ email: "ymedlop@gmail.com"
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+Yeray Medina López nacio en tenerife Tenerife y actualmente trabaja como Consultor Técnico en Santander Consumer Technology Services GmbH.
 
-Yeray Medina López Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
+Jack of all trades, maestro de nada, soy un entusiasta de aprender nuevas y diferentes tecnologías, ampliando mis áreas de conocimiento.
 <!---
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/file/d/19kIvAK86G73hpiTq2A1k-SYkivLxDKUQ/view?usp=sharing" "newtab" >}}resumé{{< /staticref >}}.
 -->

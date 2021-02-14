@@ -9,13 +9,17 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
+title: Conocimientos && Habilidades
 subtitle:
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
+- description: 80%
+  icon: k8s
+  icon_pack: custom
+  name: Kubernetes
 - description: 90%
   icon: node
   icon_pack: fab
