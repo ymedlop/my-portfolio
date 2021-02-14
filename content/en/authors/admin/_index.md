@@ -16,6 +16,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Jack of all trades, master of none. I am a enthusiastic about learning new and different technologies, expanding my areas of knowledges.
 
+
 # Interests to show in About widget
 interests:
 - Cloud Computing
