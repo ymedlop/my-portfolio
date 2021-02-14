@@ -14,12 +14,13 @@ organizations:
   url: https://www.linkedin.com/company/santandertechnology/mycompany/
 
 # Short bio (displayed in user profile at end of posts)
-bio: TODO
+bio: Jack of all trades, master of none. I am a enthusiastic about learning new and different technologies, expanding my areas of knowledges.
 
 # Interests to show in About widget
 interests:
 - Cloud Computing
 - DevOps
+- Node-RED
 - Node.js
 
 # Education to show in About widget
@@ -53,8 +54,9 @@ email: "ymedlop@gmail.com"
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+Yeray Medina López was born in Tenerife and actually he is working as Technical Consultant at Santander Consumer Technology Services GmbH.
 
-Yeray Medina López Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Jack of all trades, master of none. He's a enthusiastic about learning new and different technologies, expanding his areas of knowledges.
 <!---
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/file/d/19kIvAK86G73hpiTq2A1k-SYkivLxDKUQ/view?usp=sharing" "newtab" >}}resumé{{< /staticref >}}.
 -->

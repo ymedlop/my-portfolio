@@ -29,7 +29,7 @@ experience:
     date_start: '2019-01-01'
     date_end: ''
     description: |2-
-      Providing specific knowledges or expertise in different technologies / platforms at the Channels DE area. Support projects in their whole life (design recommendations, development procedures, environment preparation, deployment support, etc.):
+      Providing specific knowledges or expertise in different technologies / platforms at the Channels DE area. Support projects in their whole life (design recommendations, development procedures, environment preparation, deployment support, etc.)
 
   - title: Technical Consultant
     company: Avansis

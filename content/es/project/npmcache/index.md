@@ -1,11 +1,11 @@
 ---
 title: NPM Cache Resource
-summary: a Concourse resource for caching dependencies downloaded by NPM
+summary: un recurso de Concourse para almacenar en caché las dependencias descargadas por NPM
 tags:
 - Concourse
 - NPM
 - DevOps
-date: "2016-010-27T00:00:00Z"
+date: "2021-01-01"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -32,5 +32,5 @@ url_video: ""
 # slides: example
 ---
 
-a Concourse resource for caching dependencies downloaded by NPM - built on mhart/alpine-node and git-resource.
+un recurso de Concourse para almacenar en caché las dependencias descargadas por NPM - construido a partir de mhart/alpine-node y git-resource.
 

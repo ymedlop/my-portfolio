@@ -1,14 +1,13 @@
 ---
-title: NPM Cache Resource
-summary: a Concourse resource for caching dependencies downloaded by NPM
+title: Doing things with Node-RED
+summary: Node-RED stuff
 tags:
-- Concourse
-- NPM
-- DevOps
+- Node-RED
+- Node.js
 date: "2021-01-01"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://www.npmjs.com/org/doing-things-with-node-red"
 
 image:
  caption: ""
@@ -19,7 +18,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/ymedlop
-url_code: "https://ymedlop.github.io/npm-cache-resource/"
+url_code: "https://github.com/doing-things-with-node-red"
 url_pdf: ""
 url_slides: ""
 url_video: ""
@@ -32,5 +31,4 @@ url_video: ""
 # slides: example
 ---
 
-a Concourse resource for caching dependencies downloaded by NPM - built on mhart/alpine-node and git-resource.
-
+My own GitHub organization where I deploy my own Node-RED packages and my Node-RED proof of concepts.
